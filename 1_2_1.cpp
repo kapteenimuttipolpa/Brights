@@ -15,5 +15,4 @@ int main()
     reverse_string(s);
     std::cout << "\n";
  return 0;
- //testcomment
 }
