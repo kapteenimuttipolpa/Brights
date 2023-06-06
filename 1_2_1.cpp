@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 
-/*void reverse_string(std::string& s)
+void reverse_string(std::string& s)
 {
     std::cout << "String reversed: ";
     for(auto it = s.end(); it != s.begin()-1; it--){
@@ -15,4 +15,4 @@ int main()
     reverse_string(s);
     std::cout << "\n";
  return 0;
-}*/
+}
